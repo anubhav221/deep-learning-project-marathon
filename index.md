@@ -13,7 +13,7 @@ We will be doing projects related to different topics of deep learning. I will c
 
 ## list of projects : 
 
--**beginner**
+- **beginner**
   1. Predict Next Sequence
   2. Cats vs Dogs
   3. Build your Own Neural Net from Scratch
@@ -21,7 +21,7 @@ We will be doing projects related to different topics of deep learning. I will c
   5. Human Face Detection
   6. Dog’s Breed Identification
   
-  -**intermediate**
+- **intermediate**
   1. Traffic Sign Classification
   2. Automatic Music Generation
   3. Breast Cancer Classification
@@ -32,7 +32,7 @@ We will be doing projects related to different topics of deep learning. I will c
   8. Neural Style Transfer
   9. Face Aging
 
--**advance**
+- **advance**
   1. Gender and Age Detection
   2. Driver Drowsiness Detection
   3. Human Pose Estimation
