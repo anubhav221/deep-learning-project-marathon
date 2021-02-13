@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+## Welcome to my first blog
 
-You can use the [editor on GitHub](https://github.com/anubhav221/deep-learning-project-marathon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+First of all i want to thank all of the readers who are reading my blog. 
+So this is basically about the project that i will make and i have taken the topic from another amazing blog in dataflair [blog link](https://data-flair.training/blogs/deep-learning-project-ideas/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What i will do in this projects?
 
-### Markdown
+I will first write the code and will show you output then i will explain the math behind the project in my blog and in my you tube channel. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## what type of project we will do?
 
-```markdown
-Syntax highlighted code block
+We will be doing projects related to different topics of deep learning. I will categorize the projects in three sections **beginner**, **intermediate** and **advance**. And i will try to do projects as much as i can.
 
-# Header 1
-## Header 2
-### Header 3
+## list of projects : 
 
-- Bulleted
-- List
+-**beginner**
+  1. Predict Next Sequence
+  [image]()
+  2. Cats vs Dogs
+  [image]()
+  3. Build your Own Neural Net from Scratch
+  [image]()
+  4. Image Classification with CIFAR-10 Dataset
+  [image]()
+  5. Human Face Detection
+  [image]()
+  6. Dog’s Breed Identification
+  [image]()
 
-1. Numbered
-2. List
+-**intermediate**
+  1. Traffic Sign Classification
+  [image]()
+  2. Automatic Music Generation
+  [image]()
+  3. Breast Cancer Classification
+  [image]()
+  4. Music Genre Classification
+  [image]()
+  5. Text Summarizer
+  [image]()
+  6. Gender Recognition Using Voice
+  [image]()
+  7. Chatbot Using Deep Learning
+  [image]()
+  8. Neural Style Transfer
+  [image]()
+  9. Face Aging
+  [image]()
 
-**Bold** and _Italic_ and `Code` text
+-**advance**
+  1. Gender and Age Detection
+  [image]()
+  2. Driver Drowsiness Detection
+  [image]()
+  3. Human Pose Estimation
+  [image]()
+  4. Human Activity Recognition with Video Classification
+  [image]()
+  5. Image Caption Generator
+  [image]()
+  6. Generate Human Faces with DCGAN
+  [image]()
+  7. Variational Autoencoders
+  [image]()
+  8. Colourizing Old B&W Images
+  [image]()
+  9. Language Translator
+  [image]()
 
-[Link](url) and ![Image](src)
-```
+## order of making project 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+So i will first make all this projects in order BIA order of projects in each level is not fixed as written above.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anubhav221/deep-learning-project-marathon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## social media
+[connect with me in linkedin](www.linkedin.com/in/anubhav-yadav-667515191)
