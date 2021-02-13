@@ -45,7 +45,7 @@ We will be doing projects related to different topics of deep learning. I will c
 
 ## order of making project 
 
-So i will first make all this projects in order BIA order of projects in each level is not fixed as written above.
+So i will first make all this projects in order BIA. Order of projects in each level is not fixed as written above.
 
 ## social media
 [connect with me in linkedin](www.linkedin.com/in/anubhav-yadav-667515191)
