@@ -5,7 +5,7 @@ So this is basically about the project that i will make and i have taken the top
 
 ## What i will do in this projects?
 
-I will first write the code and will show you output then i will explain the math behind the project in my blog and in my you tube channel. 
+I will first write the code and will show you output then i will explain the math behind the project in my blog. 
 
 ## what type of project we will do?
 
